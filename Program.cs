@@ -55,7 +55,7 @@ namespace Sesion1
                 }
             }
             else
-                Console.Write("\n La lista enlazada simple no tiene datos.\n");
+                Console.Write("\n LA LISTA ESTA ENLAZADA NO TIENE DATOS.\n");
 
             if (contador == 0)
                 Console.Write("El dato " + datoBuscado + " no fue encontrado en la lista enlazada.");
